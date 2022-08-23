@@ -1,3 +1,8 @@
+# This repository is fork.
+Changes:
+- Support MQTT AUTH
+- Docker support
+
 # MQTT-System-Monitor (MSM)
 
 [![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/cmargiotta/mqtt-system-monitor?style=for-the-badge)](https://www.codefactor.io/repository/github/cmargiotta/mqtt-system-monitor/overview/main)
