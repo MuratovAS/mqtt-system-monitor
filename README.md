@@ -2,6 +2,8 @@
 Changes:
 - Support MQTT AUTH
 - Docker support
+- Fix standard modules
+- Added custom modules
 
 # MQTT-System-Monitor (MSM)
 
